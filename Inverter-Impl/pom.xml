@@ -17,6 +17,15 @@
             <version>1.0</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>XX</groupId>
+            <artifactId>Inverter-Impl</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
+        </dependency>
     </dependencies>
 
     <properties>

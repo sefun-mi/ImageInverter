@@ -1,0 +1,3 @@
+POST         /original/:img          controllers.InverterController.addImage(img: BufferedImage)
+
+GET          /negative/              controllers.InverterController.getNegative()

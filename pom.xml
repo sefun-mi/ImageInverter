@@ -171,6 +171,8 @@
         <module>commons</module>
         <module>binder</module>
         <module>integration-tests</module>
+        <module>Inverter-API</module>
+        <module>Inverter-Impl</module>
     </modules>
 </project>
 
